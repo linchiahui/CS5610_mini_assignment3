@@ -1,0 +1,6 @@
+.single_box {
+  height: 100px;
+  width: 100px;
+  border: 3px solid grey;
+  text-align: center;
+}
